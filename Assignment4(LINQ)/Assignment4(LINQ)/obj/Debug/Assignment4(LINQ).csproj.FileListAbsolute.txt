@@ -1,0 +1,7 @@
+C:\Users\admin\Desktop\C-Assignment\Assignment4(LINQ)\Assignment4(LINQ)\bin\Debug\Assignment4(LINQ).exe.config
+C:\Users\admin\Desktop\C-Assignment\Assignment4(LINQ)\Assignment4(LINQ)\bin\Debug\Assignment4(LINQ).exe
+C:\Users\admin\Desktop\C-Assignment\Assignment4(LINQ)\Assignment4(LINQ)\bin\Debug\Assignment4(LINQ).pdb
+C:\Users\admin\Desktop\C-Assignment\Assignment4(LINQ)\Assignment4(LINQ)\obj\Debug\Assignment4(LINQ).csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\C-Assignment\Assignment4(LINQ)\Assignment4(LINQ)\obj\Debug\Assignment4(LINQ).csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\C-Assignment\Assignment4(LINQ)\Assignment4(LINQ)\obj\Debug\Assignment4(LINQ).exe
+C:\Users\admin\Desktop\C-Assignment\Assignment4(LINQ)\Assignment4(LINQ)\obj\Debug\Assignment4(LINQ).pdb
